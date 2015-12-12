@@ -18,6 +18,6 @@
 
 #####Lightweight methodologies
 
-[Next Page]()
+[Next Page](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/unified.md)
 
-[Back to contents]()
+[Back to contents](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/Index.md)
