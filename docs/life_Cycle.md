@@ -8,6 +8,6 @@
 
 #####Transition Phase
 
-[Prev Page]() | [Next Page]()
+[Prev Page](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/unified.md) | [Next Page](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/RUP.md)
  
- [Back to contents]()
+ [Back to contents](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/Index.md)
