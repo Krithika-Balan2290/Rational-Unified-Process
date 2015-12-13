@@ -29,7 +29,7 @@ These are the outcomes achieved in the elaboration phase:
 * A development plan for the overall project, showing iterations and evaluation criteria for each iteration. 
 * An updated development case specifying the process to be used. 
 
-
+![image1] (https://upload.wikimedia.org/wikipedia/commons/1/19/Development-iterative.png)
 
 #####Construction Phase
 
