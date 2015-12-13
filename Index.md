@@ -37,10 +37,10 @@
   
 4. [Rational Unified Process](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/RUP.md)
 
-  4.1 [Building Blocks of RUP](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/RUP.md)
+5. [Building Blocks of RUP](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/building_blocks.md)
   
-5. [The IBM Rational Method Composer](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/IBM_rational.md)
+6. [The IBM Rational Method Composer](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/IBM_rational.md)
 
-6. [Best Practices for RUP](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/best_Practices.md)
+7. [Best Practices for RUP](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/best_Practices.md)
 
-7. [References](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/refs.md)
+8. [References](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/refs.md)
