@@ -16,6 +16,8 @@
 
 #####Code and fix
 
+![Image1](http://www.ciamberlini.it/wp-content/uploads/2013/02/codefix.png)
+
 #####Lightweight methodologies
 
 [Next Page](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/unified.md)
