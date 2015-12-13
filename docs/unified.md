@@ -18,7 +18,7 @@ The main focus of the unified process is the architecture of the system. In the 
 ######3. Risk Focused
 The unified process requires the project to focus on the tackling the most critical risks earlier in the cycle. Thus the deliverable in each iteration cycle is selected such that the deliverables which are potential high risk elements are addressed first. This reduces the risks of product failure at later stages thereby potentially increasing the success rate of the product.
 
-The Unified Process describes how to effectively develop commercially proven approaches to software development for software development teams. These are called “best practices” as they have helped teams and organizations successfully develop their product. The Unified Process provides each team member with the guidelines, templates and tool necessary for the entire team to take full advantage to follow best practices: 
+The Unified Process describes how to effectively develop commercially proven approaches to software development for software development teams. These are called *“best practices”* as they have helped teams and organizations successfully develop their product. The Unified Process provides each team member with the guidelines, templates and tool necessary for the entire team to take full advantage to follow best practices: 
 
 1. Develop software iteratively
 2. Manage requirements 
