@@ -9,8 +9,8 @@ The unified process is supported by tools, these tools help in automating a larg
 
 ####Unified Process Charateristics:
 
-######1. Iterative and incremental:
-    The unified process is an iterative and incremental process. The phases of Unified Process that is elaboration, construction and transition are divided into a timeboxed iteration, that is these phases repeat over time. if the project is large even then even the inception phase might be divided into iterations. Each iteration results in an increment which means that after each iteration the product will contain new and additional functionalities, as compared to the previous releases. Although most of these iteration will consist of similar SDLC phases (requirement analysis, implementation, coding, testing etc.) the focus on these phases will change as we proceed with each iteration and increment.
+######1. Iterative and incremental
+The unified process is an iterative and incremental process. The phases of Unified Process that is elaboration, construction and transition are divided into a timeboxed iteration, that is these phases repeat over time. if the project is large even then even the inception phase might be divided into iterations. Each iteration results in an increment which means that after each iteration the product will contain new and additional functionalities, as compared to the previous releases. Although most of these iteration will consist of similar SDLC phases (requirement analysis, implementation, coding, testing etc.) the focus on these phases will change as we proceed with each iteration and increment.
 
 ######2. Architecture Centric
 The main focus of the unified process is the architecture of the system. In the unified system, the entire project shapes according to the architecture of the product. All project efforts are planned according to the architecture of the system. The most important deliverable of this process is the executable architecture baseline which is created during the elaboration phase of the cycle. This partial execution of the system validates the architecture of the system and also acts as a foundation for the remaining project.
