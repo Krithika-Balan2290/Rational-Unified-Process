@@ -20,20 +20,20 @@ Iterative and Incremental development is any combination of both iterative desig
 
 ![image4](http://www.voltreach.com/uploadedimages/iterative-model.jpg)
 
-#####Spiral development
+###Spiral development
 The spiral model is a risk-driven  model generator for software projects. Based on the unique risk patterns of a given project, the spiral model guides a team to adopt elements of one or more process models, such as Incremental, Prototype or Waterfall.
 
 Each model is specific to a project, a thorough risk analysis of the project is done and based on the estimate risk, diffrent processes are adopted.
 
 ![image5](http://leansoftwareengineering.com/wp-content/uploads/2008/05/spiral_model_boehm_1988.png)
 
-#####Rapid application development
+###Rapid application development
 
 In the Rapid Application Development (RAD) approach , lesser importance is given to planning whereas more emphasis is given on development of the product, in contrast to the waterfall model. RAD focuses on adjusting requirements in relation to the knowledge gained during the project. This causes RAD to use prototypes in place of design specifications. the RAD approache also emphasizes on a flexible process that can adapt as the project evolves rather than rigorously defining specifications and plans correctly from the start.
 
 ![image6](http://javatechig.com/wp-content/uploads/2012/02/rapid-appliation-development.png)
 
-#####Code and fix
+###Code and fix
 
 The code and fix model starts with no or very little initial planning. The main idea of this model is to start development of the product and then fix problems as and when they occur, until the product is delivered. This model is used for projects that have to be developed in tight time schedules, and immediate end results are to be seen. 
 A major drawback of this model is that it, if there an architectural change, then large parts of the code need to be rewritten, thus making a change is hard and expensive. This model works appropriately for small projects.
