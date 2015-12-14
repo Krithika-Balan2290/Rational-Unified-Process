@@ -9,11 +9,19 @@ The waterfall development model originates in the manufacturing industries. Thes
 
 #####Prototyping
 
+![image3](http://image.slidesharecdn.com/softwareengineeringleture4-140213062705-phpapp01/95/software-engineering-leture4-12-638.jpg?cb=1392272912)
+
 #####Iterative and incremental development
+
+![image4](http://www.voltreach.com/uploadedimages/iterative-model.jpg)
 
 #####Spiral development
 
+![image5](https://www.google.com/search?q=spiral+development&espv=2&biw=1280&bih=595&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj0zO_3p9rJAhVh44MKHWebALMQ_AUIBigB#imgrc=3MpqgN9l8CuYBM%3A)
+
 #####Rapid application development
+
+![image6](http://javatechig.com/wp-content/uploads/2012/02/rapid-appliation-development.png)
 
 #####Code and fix
 
