@@ -9,20 +9,14 @@
   
   1.2 [Prototyping](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#prototyping)
 
-  1.3 [Incremental development](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#incremental-development)
-
-  1.4 [Iterative and incremental development](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#iterative-and-incremental-development)
+  1.3 [Iterative and incremental development](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#iterative-and-incremental-development)
   
-  1.5 [Spiral development](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#spiral-development)
+  1.4 [Spiral development](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#spiral-development)
   
-  1.6 [Rapid application development](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#rapid-application-development)
+  1.5 [Rapid application development](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#rapid-application-development)
   
-  1.7 [Agile development](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#agile-development)
+    1.6 [Code and fix](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#code-and-fix)
   
-  1.8 [Code and fix](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#code-and-fix)
-  
-  1.9 [Lightweight methodologies](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/Intro_Software_development.md#lightweight-methodologies)
-
 2. [The Unified Process](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/unified.md)
 
 3. [Life Cycle of the Unified Process](https://github.com/Krithika-Balan2290/Rational-Unified-Process/blob/master/docs/life_Cycle.md)
